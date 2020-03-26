@@ -6,7 +6,6 @@ int sensorValue = 0; // variable to store the value coming from the sensor
 
 
 void requestEvent() {
-    Serial.println("I2c request!");
     Wire.write(sensorValue);
     Wire.write(sensorValue>>8);
                                  // as expected by master
