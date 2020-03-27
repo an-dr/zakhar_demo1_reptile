@@ -1,9 +1,9 @@
 [submodule "sw/zakhar_core"]
 	path = sw/zakhar_core
-	url = ../zakhar_core.git
+	url = git@github.com:an-dr/zakhar_core.git
 [submodule "sw/zakhar_platform"]
 	path = sw/zakhar_platform
-	url = ../zakhar_platform.git
+	url = git@github.com:an-dr/zakhar_platform.git
 [submodule "sw/zakhar-face-module"]
 	path = sw/zakhar-face-module
-	url = ../zakhar-face-module.git
+	url = git@github.com:an-dr/zakhar-face-module.git
